@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( d:\school\semester 5\graphics\fireball\componentframework\gamescenemanager.cpp: 120)
+INFO: 1.13.0 ( d:\school\semester 5\graphics\fireball\componentframework\window.cpp: 66)
