@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 128fcd58defabec44afc8e6d30949d68
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: HourGalssEmpty_CrackedRing
+    100002: //RootNode
+    100004: HourGlassEmpty_CrackedBottom
+    100006: HourGlassEmpty_CrackedGlassBottom00
+    100008: HourGlassEmpty_CrackedGlassBottom01
+    100010: HourGlassEmpty_CrackedGlassTop00
+    100012: HourGlassEmpty_CrackedGlassTop01
+    100014: HourGlassEmpty_CrackedPillar00
+    100016: HourGlassEmpty_CrackedPillar01
+    100018: HourGlassEmpty_CrackedPillar02
+    100020: HourGlassEmpty_CrackedPillar03
+    100022: HourGlassEmpty_CrackedTop
+    400000: HourGalssEmpty_CrackedRing
+    400002: //RootNode
+    400004: HourGlassEmpty_CrackedBottom
+    400006: HourGlassEmpty_CrackedGlassBottom00
+    400008: HourGlassEmpty_CrackedGlassBottom01
+    400010: HourGlassEmpty_CrackedGlassTop00
+    400012: HourGlassEmpty_CrackedGlassTop01
+    400014: HourGlassEmpty_CrackedPillar00
+    400016: HourGlassEmpty_CrackedPillar01
+    400018: HourGlassEmpty_CrackedPillar02
+    400020: HourGlassEmpty_CrackedPillar03
+    400022: HourGlassEmpty_CrackedTop
+    2100000: 'Material #22'
+    2100002: WoodMat
+    2100004: GlassMat
+    2300000: HourGalssEmpty_CrackedRing
+    2300002: HourGlassEmpty_CrackedBottom
+    2300004: HourGlassEmpty_CrackedGlassBottom00
+    2300006: HourGlassEmpty_CrackedGlassBottom01
+    2300008: HourGlassEmpty_CrackedGlassTop00
+    2300010: HourGlassEmpty_CrackedGlassTop01
+    2300012: HourGlassEmpty_CrackedPillar00
+    2300014: HourGlassEmpty_CrackedPillar01
+    2300016: HourGlassEmpty_CrackedPillar02
+    2300018: HourGlassEmpty_CrackedPillar03
+    2300020: HourGlassEmpty_CrackedTop
+    3300000: HourGalssEmpty_CrackedRing
+    3300002: HourGlassEmpty_CrackedBottom
+    3300004: HourGlassEmpty_CrackedGlassBottom00
+    3300006: HourGlassEmpty_CrackedGlassBottom01
+    3300008: HourGlassEmpty_CrackedGlassTop00
+    3300010: HourGlassEmpty_CrackedGlassTop01
+    3300012: HourGlassEmpty_CrackedPillar00
+    3300014: HourGlassEmpty_CrackedPillar01
+    3300016: HourGlassEmpty_CrackedPillar02
+    3300018: HourGlassEmpty_CrackedPillar03
+    3300020: HourGlassEmpty_CrackedTop
+    4300000: HourGalssEmpty_CrackedRing
+    4300002: HourGlassEmpty_CrackedBottom
+    4300004: HourGlassEmpty_CrackedGlassBottom01
+    4300006: HourGlassEmpty_CrackedGlassBottom00
+    4300008: HourGlassEmpty_CrackedGlassTop00
+    4300010: HourGlassEmpty_CrackedGlassTop01
+    4300012: HourGlassEmpty_CrackedTop
+    4300014: HourGlassEmpty_CrackedPillar00
+    4300016: HourGlassEmpty_CrackedPillar01
+    4300018: HourGlassEmpty_CrackedPillar02
+    4300020: HourGlassEmpty_CrackedPillar03
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

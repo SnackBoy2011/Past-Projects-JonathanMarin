@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Character
+  - Change
+  - Branch
+  - Berry
+  - Dialogue
+  - Barrier
+  - Rock
+  - Chieftain
+  - Music
+  - Barrel
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Dunga UI
+  - Character
+  - Projectiles
+  - Enemy
+  - Barrier
+  - Berry
+  - Branch
+  - IgnoreUI
+  - ArrowCircle
+  - Rock
+  - Circles
+  - Stones
+  - FireBall
+  - Buffbar
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sprite
+    uniqueID: 804683443
+    locked: 0
+  - name: Dunga Canvas
+    uniqueID: 3216809699
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

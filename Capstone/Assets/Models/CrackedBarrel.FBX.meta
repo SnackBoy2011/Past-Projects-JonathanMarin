@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: f54bbe3261bd99f488fda8eff687111d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CrackedLidBottom_02
+    100004: CrackedLidBottom_03
+    100006: CrackedLidTop_00
+    100008: CrackedLidTop_01
+    100010: CrackedPlank_00
+    100012: CrackedPlank_01
+    100014: CrackedPlank_02
+    100016: CrackedPlank_03
+    100018: CrackedPlank_04
+    100020: CrackedPlank_05
+    100022: CrackedPlank_06
+    100024: CrackedPlank_07
+    100026: CrackedPlank_08
+    100028: CrackedPlank_09
+    100030: CrackedPlank_10
+    100032: CrackedPlank_11
+    100034: CrackedPlank_14
+    100036: CrackedPlank_19
+    100038: CrackedPlank_20
+    100040: CrackedPlank_21
+    100042: MetalRim_00
+    100044: MetalRim_01
+    400000: //RootNode
+    400002: CrackedLidBottom_02
+    400004: CrackedLidBottom_03
+    400006: CrackedLidTop_00
+    400008: CrackedLidTop_01
+    400010: CrackedPlank_00
+    400012: CrackedPlank_01
+    400014: CrackedPlank_02
+    400016: CrackedPlank_03
+    400018: CrackedPlank_04
+    400020: CrackedPlank_05
+    400022: CrackedPlank_06
+    400024: CrackedPlank_07
+    400026: CrackedPlank_08
+    400028: CrackedPlank_09
+    400030: CrackedPlank_10
+    400032: CrackedPlank_11
+    400034: CrackedPlank_14
+    400036: CrackedPlank_19
+    400038: CrackedPlank_20
+    400040: CrackedPlank_21
+    400042: MetalRim_00
+    400044: MetalRim_01
+    2100000: Bark
+    2100002: Bark2
+    2100004: Bark3
+    2100006: metal
+    2300000: CrackedLidBottom_02
+    2300002: CrackedLidBottom_03
+    2300004: CrackedLidTop_00
+    2300006: CrackedLidTop_01
+    2300008: CrackedPlank_00
+    2300010: CrackedPlank_01
+    2300012: CrackedPlank_02
+    2300014: CrackedPlank_03
+    2300016: CrackedPlank_04
+    2300018: CrackedPlank_05
+    2300020: CrackedPlank_06
+    2300022: CrackedPlank_07
+    2300024: CrackedPlank_08
+    2300026: CrackedPlank_09
+    2300028: CrackedPlank_10
+    2300030: CrackedPlank_11
+    2300032: CrackedPlank_14
+    2300034: CrackedPlank_19
+    2300036: CrackedPlank_20
+    2300038: CrackedPlank_21
+    2300040: MetalRim_00
+    2300042: MetalRim_01
+    3300000: CrackedLidBottom_02
+    3300002: CrackedLidBottom_03
+    3300004: CrackedLidTop_00
+    3300006: CrackedLidTop_01
+    3300008: CrackedPlank_00
+    3300010: CrackedPlank_01
+    3300012: CrackedPlank_02
+    3300014: CrackedPlank_03
+    3300016: CrackedPlank_04
+    3300018: CrackedPlank_05
+    3300020: CrackedPlank_06
+    3300022: CrackedPlank_07
+    3300024: CrackedPlank_08
+    3300026: CrackedPlank_09
+    3300028: CrackedPlank_10
+    3300030: CrackedPlank_11
+    3300032: CrackedPlank_14
+    3300034: CrackedPlank_19
+    3300036: CrackedPlank_20
+    3300038: CrackedPlank_21
+    3300040: MetalRim_00
+    3300042: MetalRim_01
+    4300000: CrackedLidTop_00
+    4300002: CrackedPlank_19
+    4300004: CrackedPlank_02
+    4300006: CrackedPlank_05
+    4300008: CrackedPlank_06
+    4300010: CrackedPlank_14
+    4300012: CrackedPlank_00
+    4300014: CrackedPlank_10
+    4300016: CrackedPlank_11
+    4300018: MetalRim_00
+    4300020: CrackedPlank_09
+    4300022: MetalRim_01
+    4300024: CrackedPlank_20
+    4300026: CrackedPlank_07
+    4300028: CrackedLidBottom_03
+    4300030: CrackedLidBottom_02
+    4300032: CrackedPlank_04
+    4300034: CrackedPlank_03
+    4300036: CrackedPlank_21
+    4300038: CrackedLidTop_01
+    4300040: CrackedPlank_01
+    4300042: CrackedPlank_08
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
